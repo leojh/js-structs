@@ -1,0 +1,12 @@
+{
+  "launch_in_dev": ["PhantomJS"],
+
+  "framework": "jasmine",
+
+  "src_files": [
+    "./libs/underscore-1.8.3.js",
+
+    "app/**/*.js",
+    "spec/**/*_spec.js"
+  ]
+}
